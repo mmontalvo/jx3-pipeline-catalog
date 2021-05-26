@@ -6,7 +6,7 @@ metadata:
 spec:
   pipelineSpec:
     tasks:
-    - name: from-build-pack
+    - name: from-build-pack-demo
       resources: {}
       taskSpec:
         metadata: {}
